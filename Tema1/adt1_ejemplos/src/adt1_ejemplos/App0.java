@@ -3,6 +3,7 @@ package adt1_ejemplos;
 import java.io.File;
 
 public class App0 {
+    
     public static void main(String[] args) {
 
         File f = new File("./resources/file.txt");
