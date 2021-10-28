@@ -4,7 +4,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.xpath.*;
 import org.w3c.dom.*;
 
-public class App {
+/**
+ * XML: Ejemplo lectura mediante DOM
+ */
+public class App1 {
     public static void main(String[] args) throws Exception {
 
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
