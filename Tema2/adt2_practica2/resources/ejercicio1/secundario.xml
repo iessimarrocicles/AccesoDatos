@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetario>
+    <receta>
+        <nombre>Tortilla de patatas</nombre>
+        <descripcion>Receta elaborada en Madrid</descripcion>
+    </receta>
+    <receta>
+        <nombre>Tortilla de cebolla</nombre>
+        <descripcion>Cebolla de temporada</descripcion>
+    </receta>
+</recetario>

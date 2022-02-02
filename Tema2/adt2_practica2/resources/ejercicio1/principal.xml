@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetario>
+    <receta>
+        <nombre>Ensalada de pollo</nombre>
+        <descripcion>Plato realizado por el cocinero Juan</descripcion>
+    </receta>
+    <receta>
+        <nombre>Ensalada Cesar</nombre>
+        <descripcion>Es baja en calorias</descripcion>
+    </receta>
+</recetario>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetario>
+    <receta tipo="principal">
+        <nombre>Ensalada de pollo</nombre>
+        <precio>8</precio>
+        <descripcion>Plato realizado por el cocinero Juan</descripcion>
+    </receta>
+    <receta tipo="principal">
+        <nombre>Ensalada Cesar</nombre>
+        <precio>9</precio>
+        <descripcion>Es baja en calorias</descripcion>
+    </receta>
+    <receta tipo="secundario">
+        <nombre>Tortilla de patatas</nombre>
+        <precio>6.5</precio>
+        <descripcion>Receta elaborada en Madrid</descripcion>
+    </receta>
+    <receta tipo="secundario">
+        <nombre>Tortilla de cebolla</nombre>
+        <precio>5</precio>
+        <descripcion>Cebolla de temporada</descripcion>
+    </receta>
+    <receta tipo="postre">
+        <nombre>Mousse de chocolate</nombre>
+        <precio>3</precio>
+        <descripcion>Bajo en calorias</descripcion>
+    </receta>
+</recetario>

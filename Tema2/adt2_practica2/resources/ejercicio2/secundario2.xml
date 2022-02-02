@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetario>
+    <receta>
+        <nombre>Tortilla de patatas</nombre>
+        <precio>6.5</precio>
+        <descripcion>Receta elaborada en Madrid</descripcion>
+    </receta>
+    <receta>
+        <nombre>Tortilla de cebolla</nombre>
+        <precio>5.0</precio>
+        <descripcion>Cebolla de temporada</descripcion>
+    </receta>
+</recetario>
